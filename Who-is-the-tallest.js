@@ -8,5 +8,5 @@ function tallestFriend(height){
     }
     return tallest;
 }
-let heightList = [20,30,50,40,60]
+let heightList = [90,20,30,50,40,60]
 console.log(tallestFriend(heightList))
